@@ -1,1 +1,3 @@
-# TRABALHO_FINAL_PC
+# Trabalho final da disciplina Programação de Computadores
+
+##Universidade Federal de Pelotas 
